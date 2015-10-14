@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/classes-3b5312a70a29c71d7f6778fa4fc17f5b695a6ffe.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="668c66ef994fec47f1861ea185fe6aa205205f72">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/classes-139d70789363568b931a750517d4239f5ed6b36c.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="309967f02af11bd65974c8bf6a783994d04c25c9">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/classes-e36fd868e4b49d6dbf355c471040cab104011f78.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-30bf683e741a0a3353d86025162d3d2f11d950ca.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-512dcd0088dea24a2d5f528fa9e036abc1fec8dc.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="7ec8bddbe9ea6919c141bbca6986c5499e049461">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/classes-fa282519738f536fe3aa956c16badfa5bca0df3a.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="cd611c5cbb4dec30ebd4ebea227eacbc7c3379c2">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/classes-080f59d2acec64fcb525eb7e1096e9126f902863.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/libs/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-40916b3a6fd71a529e92712a23b108d2e727ffd1.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-b7301d0db2ece00f5d72f28eb05699fb5c6cba93.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/library-2.4.0-58f2e95d1da35798b4e3ebf0c9fb7543545c6940.jar" />
+    </item>
+    <item
+        jar="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/arthur/Downloads/frescoSample1/app/build/intermediates/pre-dexed/debug/classes-ef6c0374d0749c28e2e973d20372ed947d6bdbc7.jar" />
+    </item>
+
+</items>

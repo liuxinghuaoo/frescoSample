@@ -1,0 +1,78 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:22.2.1]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* libs/armeabi-v7a/libbitmaps.so => app/src/main/jniLibs/armeabi-v7a/libbitmaps.so
+* libs/armeabi-v7a/libgifimage.so => app/src/main/jniLibs/armeabi-v7a/libgifimage.so
+* libs/armeabi-v7a/libgnustl_shared.so => app/src/main/jniLibs/armeabi-v7a/libgnustl_shared.so
+* libs/armeabi-v7a/libimagepipeline.so => app/src/main/jniLibs/armeabi-v7a/libimagepipeline.so
+* libs/armeabi-v7a/libmemchunk.so => app/src/main/jniLibs/armeabi-v7a/libmemchunk.so
+* libs/armeabi-v7a/libwebp.so => app/src/main/jniLibs/armeabi-v7a/libwebp.so
+* libs/armeabi-v7a/libwebpimage.so => app/src/main/jniLibs/armeabi-v7a/libwebpimage.so
+* libs/armeabi/libbitmaps.so => app/src/main/jniLibs/armeabi/libbitmaps.so
+* libs/armeabi/libgifimage.so => app/src/main/jniLibs/armeabi/libgifimage.so
+* libs/armeabi/libgnustl_shared.so => app/src/main/jniLibs/armeabi/libgnustl_shared.so
+* libs/armeabi/libimagepipeline.so => app/src/main/jniLibs/armeabi/libimagepipeline.so
+* libs/armeabi/libmemchunk.so => app/src/main/jniLibs/armeabi/libmemchunk.so
+* libs/armeabi/libwebp.so => app/src/main/jniLibs/armeabi/libwebp.so
+* libs/armeabi/libwebpimage.so => app/src/main/jniLibs/armeabi/libwebpimage.so
+* libs/bolts-android-1.1.4.jar => app/libs/bolts-android-1.1.4.jar
+* libs/drawee-0.3.0.jar => app/libs/drawee-0.3.0.jar
+* libs/fbcore-0.3.0.jar => app/libs/fbcore-0.3.0.jar
+* libs/fresco-0.3.0.jar => app/libs/fresco-0.3.0.jar
+* libs/imagepipeline-0.3.0.jar => app/libs/imagepipeline-0.3.0.jar
+* libs/jsr305-3.0.0.jar => app/libs/jsr305-3.0.0.jar
+* libs/library-2.4.0.jar => app/libs/library-2.4.0.jar
+* libs/x86/libbitmaps.so => app/src/main/jniLibs/x86/libbitmaps.so
+* libs/x86/libgifimage.so => app/src/main/jniLibs/x86/libgifimage.so
+* libs/x86/libgnustl_shared.so => app/src/main/jniLibs/x86/libgnustl_shared.so
+* libs/x86/libimagepipeline.so => app/src/main/jniLibs/x86/libimagepipeline.so
+* libs/x86/libmemchunk.so => app/src/main/jniLibs/x86/libmemchunk.so
+* libs/x86/libwebp.so => app/src/main/jniLibs/x86/libwebp.so
+* libs/x86/libwebpimage.so => app/src/main/jniLibs/x86/libwebpimage.so
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
